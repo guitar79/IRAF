@@ -79,6 +79,9 @@ mkiraf
 
 exit
 
+
+$ wget ftp://iraf.noao.edu/pub/fitz/xgterm.STATIC
+
 ----------------------------------------------------------------------------------------------
 
 The command ./iraf from home directory will now launch a complete IRAF session containing DS9,
