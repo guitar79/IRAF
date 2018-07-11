@@ -21,6 +21,9 @@ khan@astronomy.ohio-state.edu
 
 sudo apt-get install tcsh libxss1 lib32z1 lib32ncurses5 lib32bz2-1.0 libXmu6:i386
 
+error
+sudo apt-get install libz1:i386 libncurses5:i386 libbz2-1.0:i386 libstdc++6:i386
+
 wget ftp://iraf.noao.edu/iraf/v216/PCIX/iraf.lnux.x86_64.tar.gz
 
 [[If the prompt does not return after 100% then hit ctrl+c and proceed]]
